@@ -13,15 +13,15 @@ OR
 
 execute in Developer command prompt
 
-'''
+```
 cl main.cpp
-'''
+```
 
 ### For linux
 
-'''
+```
 g++ main.cpp
-'''
+```
 
 # Usage:
 
